@@ -1,8 +1,5 @@
 ![](https://i.imgur.com/B3GoQ4p.png)
 
-<a href="https://discord.gg/Xp5cStm" align="center">
-<img src="https://img.shields.io/discord/648532255979077635.svg?style=for-the-badge" />
-</a>
 <p align="center"><b>MineJS</b> is a javascript-based voxel engine that runs in your browser!</p>
 
 ### Disclaimer
@@ -76,7 +73,7 @@ Before cloning the repo or doing anything, be sure to install [docker](https://w
 
 ```bash
 # Clone the repository
-git clone https://github.com/ian13456/mine.js.git
+git clone https://github.com/rdp-studio/mine.js.git
 
 # Download packages for both server and client
 yarn
